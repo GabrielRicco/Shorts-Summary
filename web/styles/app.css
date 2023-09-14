@@ -2,7 +2,6 @@
   display: flex;
   flex-direction: column;
   align-items: center;
-
 }
 
 #app > h1 {
@@ -10,19 +9,16 @@
   margin-top: -5px;
 }
 
-#app > img {
-  width: 4rem;
-}
-
 #app > h2 {
   align-self: flex-start;
-  margin-top: 6.5rem;
+  margin-top: 4rem;
 }
 
 #app > p {
   align-self: flex-start;
   text-align: justify;
   width: 32rem;
+  margin-top: -5px;
 }
 
 #app .placeholder {
